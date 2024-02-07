@@ -1,1 +1,1 @@
-# TaskEase
+A web-based to-do list application developed using Html , css and js launched using "Docker Containers" that allows users to manage and organize their tasks and activities efficiently.Organize your to-do's effortlessly and stay productive in your day to day life.TaskEase , where tasks meet simplicity on your local device.
